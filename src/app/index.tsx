@@ -1,5 +1,4 @@
 import "./globals.css";
-import { Router } from "./router";
 
 function App() {
   return (
